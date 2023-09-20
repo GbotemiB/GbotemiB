@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GbotemiB.GbotemiB)
 
-- 📖 I’m currently studying computer engineering 
+- 📖 computer engineering grad
 - 🌱 ... always learning
 - I’m interested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
