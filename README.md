@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://www.linkedin.com/in/emmanuel-bolarinwa/" target="_blank">Emmanuel bolarinwa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
+### Hi there, I'm <a href="https://www.linkedin.com/in/emmanuel-bolarinwa/" target="_blank">Emmanuel Bolarinwa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oluwagbotty)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-bolarinwa/)
